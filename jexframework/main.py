@@ -1,1 +1,2 @@
-# Empty.
+def message(message):
+  print(message)
